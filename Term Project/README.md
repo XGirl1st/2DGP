@@ -48,7 +48,7 @@ Main 화면, Select Song 화면, Game Play 화면, Score 화면 이렇게 4가�
 Enter키를 누르면 다시 Select Song 화면으로 돌아가게 된다.
 
 ### 다이어그램
-
+![scenes](/img/Diagram.png)
 
 # 필요한 기술
 ### 다른 과목에서 배운 기술
