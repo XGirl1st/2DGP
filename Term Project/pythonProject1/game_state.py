@@ -5,7 +5,7 @@ from background import Background
 
 canvas_width=1200
 canvas_height=600
-
+smallfont = None
 
 def enter():
     gfw.world.init(['bg'])
@@ -21,10 +21,16 @@ def update():
     gfw.world.update()
 
 def draw():
+    global smallfont
+
     gfw.world.draw()
+    if smallfont == None:
+        smallfont = load_font('ENCR10B.TTF', 20)
+
+    smallfont.draw(400,100, "Press Button 알아서 수정해", (255,255,255))
 
 def handle_event(evt):
-    if evt.type==SDL_Quit:
+    if evt.type==SDL_QUIT:
         gfw.quit()
         return
 
