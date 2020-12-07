@@ -96,3 +96,12 @@ Miss가 나면 HP Bar가 깎이고, Miss가 50번 이상되면 게임 오버 (Fa
 일일이 타이밍에 맞춰 시간 뿐만 아니라 속도까지 구현한다는게.. 생각 이상으로 힘들었지만, 좋은 경험이었다.
 게임이 완성되었을 때의 뿌듯함이 컸다.
 
+
+# 발표 영상
+### 1차
+https://youtu.be/FaPcqE9lt6s
+### 2차
+https://youtu.be/KlsbfYzcgyQ
+### 최종
+https://youtu.be/I7UR1xU3wKo
+
