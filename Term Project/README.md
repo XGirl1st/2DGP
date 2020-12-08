@@ -109,4 +109,4 @@ https://youtu.be/FaPcqE9lt6s
 https://youtu.be/KlsbfYzcgyQ
 ### 최종
 https://youtu.be/I7UR1xU3wKo
-
+### 리듬게임 헤비 유저들은 평균적으로 S~B 사이의 랭크가 나왔습니다.. Fail화면을 보여주고자 의도하여 지인을 리듬게임 초보자로 섭외한 것도 있습니다..
